@@ -1,3 +1,6 @@
+# sunday-stock-backend
+
+
 == Authorization Code
 
 http://localhost:8013/oauth/authorize?response_type=code&client_id=client&client_secret=secret&scope=read
